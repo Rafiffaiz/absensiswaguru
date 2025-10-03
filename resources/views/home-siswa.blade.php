@@ -44,7 +44,7 @@
 
             {{-- Tombol Izin --}}
             <a href='/izin/dashboard' class="btn btn-outline-orange w-100 mt-3 py-2 fw-bold shadow-sm animate-fadein">
-                <i class="bi bi-journal-x"></i> Ajukan Izin & Rekap 
+                <i class="bi bi-journal-x"></i> Ajukan Izin & Rekap Izin
             </a>
 
             {{-- Link Rekap --}}

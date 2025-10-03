@@ -8,7 +8,7 @@
         <div class="card-header text-white text-center py-4" 
              style="background: linear-gradient(135deg, #ff9966, #ff6600, #ff8533);">
             <h2 class="fw-bold mb-0 text-uppercase" style="letter-spacing: 1px;">
-                <i class="bi bi-journal-bookmark-fill"></i> Dashboard Guru
+                <i class="bi bi-journal-bookmark-fill"></i> Absen Guru
             </h2>
         </div>
 
