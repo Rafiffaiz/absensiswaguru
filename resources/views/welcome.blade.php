@@ -181,9 +181,7 @@
   <div class="container-fluid d-flex justify-content-center align-items-center min-vh-100">
     <div class="container-box px-3">
       <h2 class="main-title">
-        <div class="school-logo-wrapper">
-          <img src="{{ asset('images/fatahillah.png') }}" alt="Logo Sekolah" />
-        </div>
+        
         SELAMAT DATANG DI ABSENSI SMK FATAHILLAH
         <span>Pilih Role Untuk Login</span>
       </h2>

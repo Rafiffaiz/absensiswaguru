@@ -89,4 +89,10 @@ class IzinController extends Controller
 
         return redirect()->route('izin.dashboard')->with('success', 'Izin berhasil dihapus');
     }
+    public function create()
+{
+    // return view form create izin
+    return view('izin.create');
+}
+
 }
